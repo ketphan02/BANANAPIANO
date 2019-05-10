@@ -10,7 +10,7 @@ Về hướng phát triển thêm thì mình muốn viết một app điện tho
 À với lại mình cũng muốn làm vài hiệu ứng lúc bấm nhạc nữa =)))
 
 ---------------------------------------------------------------------------------------------
-Banana is just a way to say, the main thing that i'm aiming here is a tool helps playing music becomes more enjoyable and more nutrious.
+Banana is just a way to say, the main thing that i'm aiming here is a tool helps playing music becomes more enjoyable and more nutritious.
 
 The idea was inspired by Hoang Pham Gia Khang who has already made one and has let me introduce the tool.
 I also want to create a similar app and simulate the functions of Khang's app.
