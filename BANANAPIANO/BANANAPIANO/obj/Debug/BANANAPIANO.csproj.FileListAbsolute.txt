@@ -1,0 +1,10 @@
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\bin\Debug\BANANAPIANO.exe.config
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\bin\Debug\BANANAPIANO.exe
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\bin\Debug\BANANAPIANO.pdb
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\obj\Debug\BANANAPIANO.csprojAssemblyReference.cache
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\obj\Debug\BANANAPIANO.Form1.resources
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\obj\Debug\BANANAPIANO.Properties.Resources.resources
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\obj\Debug\BANANAPIANO.csproj.GenerateResource.cache
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\obj\Debug\BANANAPIANO.csproj.CoreCompileInputs.cache
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\obj\Debug\BANANAPIANO.exe
+C:\Users\PhanKiet\source\repos\BANANAPIANO\BANANAPIANO\obj\Debug\BANANAPIANO.pdb
