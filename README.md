@@ -1,4 +1,4 @@
-# BANANAPIANO
+# BANAPI
 Chuối là tượng trưng thôi, cái thật sự ở đây là một công cụ giúp chơi nhạc trở nên vui và giàu vitamin hơn.
 
 Đây là một ý tưởng từ anh Hoàng Phạm Gia Khang đã từng làm và cho mình đứng lên để thuyết trình.
