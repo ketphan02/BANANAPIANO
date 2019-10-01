@@ -22,34 +22,13 @@ namespace BANANAPIANO
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)
         {
 
-            if (e.KeyChar == 'q')
-            {
-                PlayWav(Properties.Resources.A, false);
-            }
-            else if (e.KeyChar == 'w')
-            {
-                PlayWav(Properties.Resources.B, false);
-            }
-            else if (e.KeyChar == 'e')
-            {
-                PlayWav(Properties.Resources.C, false);
-            }
-            else if (e.KeyChar == 'r')
-            {
-                PlayWav(Properties.Resources.D, false);
-            }
-            else if (e.KeyChar == 't')
-            {
-                PlayWav(Properties.Resources.E, false);
-            }
-            else if (e.KeyChar == 'y')
-            {
-                PlayWav(Properties.Resources.F, false);
-            }
-            else if (e.KeyChar == 'u')
-            {
-                PlayWav(Properties.Resources.G, false);
-            }
+            if (e.KeyChar == 'q') PlayWav(Properties.Resources.A, false);
+            else if (e.KeyChar == 'w') PlayWav(Properties.Resources.B, false);
+            else if (e.KeyChar == 'e') PlayWav(Properties.Resources.C, false);
+            else if (e.KeyChar == 'r') PlayWav(Properties.Resources.D, false);
+            else if (e.KeyChar == 't') PlayWav(Properties.Resources.E, false);
+            else if (e.KeyChar == 'y') PlayWav(Properties.Resources.F, false);
+            else if (e.KeyChar == 'u') PlayWav(Properties.Resources.G, false);
         }
 
         private SoundPlayer pl = null;
